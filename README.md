@@ -10,4 +10,4 @@ Production: ```npm run build```
 # Live
 [Live version](https://tuhnik.github.io/plotly-demo/)
 # Screenshot
-![Screenshot](/screenshots/screenshot1.PNG?raw=true)
+![Screenshot](/screenshots/screenshot1.png?raw=true)
