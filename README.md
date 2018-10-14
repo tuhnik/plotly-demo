@@ -1,5 +1,5 @@
 # Plotly-demo
-Fetching data from api.population.io (axios) and visualizing it (plotly.js).
+Fetching data from api.population.io [(axios)](https://github.com/axios/axios/) and visualizing it [(plotly)](https://github.com/plotly/react-plotly.js).
 
 # Setup
 Setup: ```npm install```
