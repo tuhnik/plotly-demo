@@ -8,6 +8,6 @@ Development: ```npm run start```
 
 Production: ```npm run build```
 # Live
-[Live version](https://tuhnik.github.io/plotly-demo/)
+[Live version](http://leib.duckdns.org/plotly-demo/)
 # Screenshot
 ![Screenshot](/screenshots/screenshot1.png?raw=true)
